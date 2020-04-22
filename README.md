@@ -1,6 +1,6 @@
 # BMI-Calculator
 
-### This project is created using HTML, CSS and JavaScript.
+### This project is created using HTML, CSS, Bootstrap and JavaScript.
 
 ## Table of contents
 
@@ -15,6 +15,7 @@
 
 ## Technology Used
 
+- Bootstrap
 - JavaScript
 - CSS
 - HTML
