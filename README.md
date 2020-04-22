@@ -15,6 +15,6 @@
 
 ## Technology Used
 
--JavaScript
+- JavaScript
 - CSS
 - HTML
